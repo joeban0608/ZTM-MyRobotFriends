@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ZTM-MyRobotFriends/static/css/main.3893e16a.chunk.css",
+    "main.js": "/ZTM-MyRobotFriends/static/js/main.bc48dd5e.chunk.js",
+    "main.js.map": "/ZTM-MyRobotFriends/static/js/main.bc48dd5e.chunk.js.map",
+    "runtime-main.js": "/ZTM-MyRobotFriends/static/js/runtime-main.50611922.js",
+    "runtime-main.js.map": "/ZTM-MyRobotFriends/static/js/runtime-main.50611922.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/ZTM-MyRobotFriends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.9ea93975.chunk.js": "/ZTM-MyRobotFriends/static/js/2.9ea93975.chunk.js",
+    "static/js/2.9ea93975.chunk.js.map": "/ZTM-MyRobotFriends/static/js/2.9ea93975.chunk.js.map",
+    "static/js/3.d85beade.chunk.js": "/ZTM-MyRobotFriends/static/js/3.d85beade.chunk.js",
+    "static/js/3.d85beade.chunk.js.map": "/ZTM-MyRobotFriends/static/js/3.d85beade.chunk.js.map",
+    "index.html": "/ZTM-MyRobotFriends/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/ZTM-MyRobotFriends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.3893e16a.chunk.css.map": "/ZTM-MyRobotFriends/static/css/main.3893e16a.chunk.css.map",
+    "static/js/2.9ea93975.chunk.js.LICENSE.txt": "/ZTM-MyRobotFriends/static/js/2.9ea93975.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ZTM-MyRobotFriends/static/media/SuperMario256.4f725b59.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50611922.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.9ea93975.chunk.js",
+    "static/css/main.3893e16a.chunk.css",
+    "static/js/main.bc48dd5e.chunk.js"
+  ]
+}
